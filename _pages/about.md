@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # ☕️ About Me
 
-I am currently a second-year Ph.D. student at Shanghai University, Shanghai, China, supervised by [Prof. Ping An](https://scie-ie.shu.edu.cn/info/1078/1139.htm). Previously, I obtained my M.E. degree from Anqing Normal University, Anhui, China, under the guidance of [Prof. Deyang Liu](https://ldyorchid.github.io/liudeyang.github.io/). My research interests focus on low-level tasks related to light field images. I am open to various forms of academic collaboration. Should you wish to connect or discuss potential cooperation, please feel free to reach me via email at maoyifan1998@sina.com or WeChat (ID: maoyifan1998).
+I am currently a second-year Ph.D. student at Shanghai University, Shanghai, China, supervised by [Prof. Qi Zhang]([https://scie-ie.shu.edu.cn/info/1078/1139.htm](https://scie.shu.edu.cn/Prof/zhangq.htm)). Previously, I obtained my M.E. degree from City University of Hong Kong, Hong Kong, China. My research interests focus on Medical Image Analysis. I am open to various forms of academic collaboration. Should you wish to connect or discuss potential cooperation, please feel free to reach me via email at jiangshang@shu.edu.cn or WeChat (ID: JiangShang_cityu).
 
 
 
@@ -31,41 +31,18 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 # 📝 Publications 
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
-
-- **IEEE TVCG 2025** [[PDF]](https://ieeexplore.ieee.org/document/11303164) Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
+- **IEEE TIM (Under Review)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10821924) Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images
   <br>
-  <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
-- **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields
+  <span style="color:PaleVioletRed;">Yifan Mao</span>, Yuanmeng Wu, Xiaoxiang Han, Xi Chen, Qi Zhang${\dagger}$
+- **BIBM 2024** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10821924) A Semi-Supervised Approach with Error Reflection for Echocardiography Segmentation
   <br>
-  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
-- **IEEE TCSVT 2025** [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
+  Xiaoxiang Han, Yiman Liu, <span style="color:PaleVioletRed;">Yifan Mao</span>, Qingli Li, Jiangang Chen, Menghan Hu, Qi Zhang, Yuqi Zhang, Yan Wang${\dagger}$
+- **ICASSP 2024** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10446818) LK-UNet: Large Kernel Design for 3D Medical Image Segmentation
   <br>
-  Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
-- **IEEE ICUS 2025**  Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration
+  <span style="color:PaleVioletRed;">Yifan Mao</span>, Sifan Zhou${\dagger}$
+- **PRCV 2023** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8432-9_8) TriAxial Low-Rank Transformer for Efficient Medical Image Segmentation
   <br>
-  Yuan Shi$^{\*}$, Shizheng Li$^{\*}$, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Feng Wu, Zeyu Xiao, Deyang Liu${\dagger}$
-- **Opt. Lett 2025** [[PDF]](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-10-3473) Structure-preserving light field reconstruction via spatial and implicit angular cues
-  <br>
-  Fengyin Cao, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Ping An${\dagger} $, Chao Yang
-- **IEEE TCI 2024** [[PDF]](https://ieeexplore.ieee.org/document/10786285)Light Field Angular Super-Resolution Network Based on Convolutional Transformer and Deep Deblurring
-  <br>
-  Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao</span>, Yifan Zuo, Ping An, Yuming Fang${\dagger}$
-- **PRCV 2024 Oral** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-8508-7_24) Multiview Light Field Angular Super-Resolution Based on View Alignment and Frequency Attention
-  <br>
-  Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao</span>, Yifan Zuo, Ping An, Yuming Fang${\dagger}$
-- **IEEE ICME 2023** [[PDF]](https://ieeexplore.ieee.org/document/10219689) Learning a Multilevel Cooperative View Reconstruction Network for Light Field Angular Super-Resolution
-  <br>
-  Deyang Liu, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Xiaofei Zhou, Ping An, Yuming Fang${\dagger}$
-- **SPIC 2023** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596523001133) Optical flow-assisted multi-level fusion network for Light Field image angular reconstruction
-  <br>
-  Deyang Liu, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yan Huang, Liqun Cao, Yuanzhi Wang, Yuming Fang${\dagger}$
-- **IJACSA 2023** [[PDF]](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=5&Code=IJACSA&SerialNo=111) Light Field Spatial Super-resolution via Multi-level
-Perception and View Reorganization
-  <br>
-  <span style="color:PaleVioletRed;">Yifan Mao</span>, Zaidong Tong, Xin Zheng, Xiaofei Zhou, Youzhi Zhang, Deyang Liu${\dagger}$
-- **Sci. Rep 2022** [[PDF]](https://www.nature.com/articles/s41598-022-26887-4) Geometry-aware view reconstruction network for light field image compression
-  <br>
-  Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Deyang Liu${\dagger}$
+  <span style="color:PaleVioletRed;">Jiang Shang</span>, Xi Fang${\dagger}$
 
 # 🎖 Honors and Awards
 - *2024* Anhui Provincial Outstanding Graduate
